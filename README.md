@@ -4,7 +4,7 @@ A base de avaliação LAPIC1 está disponível para que pesquisas em anotação 
 
 Utilização
 --------
-A base não possui licença de uso. Contudo, pede-se que os artigos que venham a utilizar a base referenciem o seguinte trabalho:
+A base possui licença gratuita para uso acadêmico. Contudo, pede-se que os artigos que venham a utilizar a base referenciem o seguinte trabalho:
 
 ```latex
 @inproceedings{dias_lapic1_20017,
