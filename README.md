@@ -1,6 +1,6 @@
 # LAPIC1-benchmark
 
-The LAPIC1 evaluation base is available to researches on semantic video annotation and recommendadtion systemes. The base was created with video lessons from the Videoaula@RNP service, manually annotated by experts, totaling 39 videos in Portuguese with approximately 6 hours of video. The manual annotation process took approximately 24 hours of work.
+The LAPIC1 evaluation base is available to researches on semantic video annotation and recommendadtion systems. The base was created with video lessons from the Videoaula@RNP service, manually annotated by experts, totaling 39 videos in Portuguese with approximately 6 hours of video. The manual annotation process took approximately 24 hours of work.
 
 Utilization
 --------
