@@ -1,0 +1,287 @@
+Vídeo	Palavras-Chave	Resource
+		
+Video_96		
+	Modelo matemático	http://pt.dbpedia.org/resource/Modelo_(matem%C3%A1tica)
+	Análise de sistemas	http://pt.dbpedia.org/resource/An%C3%A1lise_de_sistemas
+	Informática	http://pt.dbpedia.org/resource/Inform%C3%A1tica
+	Programador	http://pt.dbpedia.org/resource/Programador
+	Analista de Sistemas	http://pt.dbpedia.org/resource/Analista_de_sistemas
+	UML	http://pt.dbpedia.org/resource/UML
+	Modelo Relacional	http://pt.dbpedia.org/resource/Modelo_relacional
+	Modelagem	http://pt.dbpedia.org/resource/Modelagem_de_dados
+	Orientação a Objetos	http://pt.dbpedia.org/resource/Orienta%C3%A7%C3%A3o_a_objetos
+		
+Video_146		
+	Moodle	http://pt.dbpedia.org/resource/Moodle
+	Perfil	http://pt.dbpedia.org/resource/Perfil_(comunidade)
+	Ambiente virtual de aprendizagem	http://pt.dbpedia.org/resource/Ambiente_virtual_de_aprendizagem
+		
+Video_178		
+	Videoaula	http://pt.dbpedia.org/resource/Videoaula
+	RNP	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+	Slides	http://pt.dbpedia.org/resource/Diapositivo
+	Treinamento	http://pt.dbpedia.org/resource/Treinamento
+	Gravações	http://pt.dbpedia.org/resource/Grava%C3%A7%C3%A3o
+Video_260		
+	Modelagem	http://pt.dbpedia.org/resource/Modelagem
+		
+Video_262		
+	Cookies	http://pt.dbpedia.org/resource/Cookie_HTTP
+	JavaScript	http://pt.dbpedia.org/resource/JavaScript
+	String	http://pt.dbpedia.org/resource/Cadeia_de_caracteres
+	Palavras reservadas	http://pt.dbpedia.org/resource/Palavra_reservada
+	HTTPS	http://pt.dbpedia.org/resource/Hyper_Text_Transfer_Protocol_Secure
+	Variável	http://pt.dbpedia.org/resource/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)
+	Atributos	http://pt.dbpedia.org/resource/Atributo_(programa%C3%A7%C3%A3o)
+		
+Video_288		
+	Compostos orgânico	http://pt.dbpedia.org/resource/Composto_orgânico
+	Ligações químicas	http://pt.dbpedia.org/resource/Liga%C3%A7%C3%A3o_qu%C3%ADmica
+	Ligações iônicas	http://pt.dbpedia.org/resource/Liga%C3%A7%C3%A3o_i%C3%B4nica
+	Ligações covalentes	http://pt.dbpedia.org/resource/Liga%C3%A7%C3%A3o_covalente
+	Elementos	http://pt.dbpedia.org/resource/Elementos_qu%C3%ADmicos
+	Elétrons	http://pt.dbpedia.org/resource/El%C3%A9tron
+	Camada de valência	http://pt.dbpedia.org/resource/Camada_de_val%C3%AAncia
+	Compostos iônicos	http://pt.dbpedia.org/resource/Composto_i%C3%B4nico
+	Regra do octeto	http://pt.dbpedia.org/resource/Regra_do_octeto
+	Carbono	http://pt.dbpedia.org/resource/Carbono
+	Átomos	http://pt.dbpedia.org/resource/%C3%81tomo
+	Metais	http://pt.dbpedia.org/resource/Metal
+	Eletronegativade	http://pt.dbpedia.org/resource/Eletronegatividade
+	Ligações sigma	http://pt.dbpedia.org/resource/Liga%C3%A7%C3%A3o_sigma
+	Organometalicos	http://pt.dbpedia.org/resource/Qu%C3%ADmica_organomet%C3%A1lica
+		
+Video_350		
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+	Videoaulas	http://pt.dbpedia.org/resource/Videoaula
+		
+Video_352		
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+	Videoaula	http://pt.dbpedia.org/resource/Videoaula
+	Servidor web	http://pt.dbpedia.org/resource/Servidor_web
+	Navegador	http://pt.dbpedia.org/resource/Navegador
+	Clusters	http://pt.dbpedia.org/resource/Cluster
+		
+Video_354		
+	Workshop	http://pt.dbpedia.org/resource/Workshop
+	Palestra	http://pt.dbpedia.org/resource/Palestra
+	Universidade	http://pt.dbpedia.org/resource/Universidade
+	Coppe	http://pt.dbpedia.org/resource/Instituto_Alberto_Luiz_Coimbra_de_P%C3%B3s-Gradua%C3%A7%C3%A3o_e_Pesquisa_em_Engenharia
+		
+Video_364		
+	Modelo de entidade relacionamento	http://pt.dbpedia.org/resource/Modelo_entidade_relacionamento
+	Herança	http://pt.dbpedia.org/resource/Heran%C3%A7a_(programa%C3%A7%C3%A3o)
+	Atributos	http://pt.dbpedia.org/resource/Atributo_(programa%C3%A7%C3%A3o)
+	Entidades	http://pt.dbpedia.org/resource/Entidade
+		
+Video_370		
+	Modelo entidade relacionamento	http://pt.dbpedia.org/resource/Modelo_entidade_relacionamento
+	Entidades	http://pt.dbpedia.org/resource/Entidade_(inform%C3%A1tica)
+	Diagrama	http://pt.dbpedia.org/resource/Diagrama
+		
+Video_396		
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+	Videoaula	http://pt.dbpedia.org/resource/Videoaula
+	Slides	http://pt.dbpedia.org/resource/Diapositivo
+	Arquivo	http://pt.dbpedia.org/resource/Arquivo_de_computador
+		
+Video_398		
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+	Servidores	http://pt.dbpedia.org/resource/Servidor
+	RADIUS	http://pt.dbpedia.org/resource/RADIUS
+	I 3 e 802.11i	http://pt.dbpedia.org/resource/IEEE_802.11i
+	I 3 e 802.1x	http://pt.dbpedia.org/resource/IEEE_802.1x
+	Protocolo	http://pt.dbpedia.org/resource/Protocolo_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+		
+Video_498		
+	Disciplina	http://pt.dbpedia.org/resource/Disciplina
+	Aula	http://pt.dbpedia.org/resource/Aula
+	Arquivo	http://pt.dbpedia.org/resource/Arquivo_de_computador
+		
+Video_564		
+	Composto organometálico	http://pt.dbpedia.org/resource/Composto_organomet%C3%A1lico
+	Nomenclatura	http://pt.dbpedia.org/resource/Nomenclatura_IUPAC
+	Metal	http://pt.dbpedia.org/resource/Metal
+	Número de Oxidação	http://pt.dbpedia.org/resource/Estado_de_oxida%C3%A7%C3%A3o
+	Compostos orgânicos	http://pt.dbpedia.org/resource/Composto_orgânico
+		
+Video_608		
+	Videoaula	http://pt.dbpedia.org/resource/Videoaula
+	Rede	http://pt.dbpedia.org/resource/Rede_de_computadores
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+		
+Video_714		
+	Servidores	http://pt.dbpedia.org/resource/Servidor
+	Usuário	http://pt.dbpedia.org/resource/Usu%C3%A1rio
+	Rede	http://pt.dbpedia.org/resource/Rede_de_computadores
+	Rede Nacional de Ensino e Pesquisa	http://pt.dbpedia.org/resource/Rede_Nacional_de_Ensino_e_Pesquisa
+		
+Video_812		
+	Relato	http://pt.dbpedia.org/resource/Modo_narrativo
+	Narrador	http://pt.dbpedia.org/resource/Narrador
+		
+Video_830		
+	Sistema Solar	http://pt.dbpedia.org/resource/Sistema_Solar
+	Marte	http://pt.dbpedia.org/resource/Marte_(planeta)
+	Júpiter	http://pt.dbpedia.org/resource/J%C3%BApiter_(planeta)
+	Ceres	http://pt.dbpedia.org/resource/Ceres_(planeta_an%C3%A3o)
+	Saturno	http://pt.dbpedia.org/resource/Saturno_(planeta)
+	Urano	http://pt.dbpedia.org/resource/Urano_(planeta)
+	Netuno	http://pt.dbpedia.org/resource/Netuno_(planeta)
+	Plutão	http://pt.dbpedia.org/resource/Plut%C3%A3o
+	Planeta	http://pt.dbpedia.org/resource/Planeta
+		
+Video_856		
+	Camada de rede	http://pt.dbpedia.org/resource/Camada_de_rede
+	Sistema	http://pt.dbpedia.org/resource/Sistema
+	Modelo OSI	http://pt.dbpedia.org/resource/Modelo_OSI
+	Protocolos	http://pt.dbpedia.org/resource/Protocolo_de_Internet
+	Camada de apresentação	http://pt.dbpedia.org/resource/Camada_de_apresenta%C3%A7%C3%A3o
+	TCPIP	http://pt.dbpedia.org/resource/TCP/IP
+		
+Video_862		
+	Sistema de informação	http://pt.dbpedia.org/resource/Sistema_de_informa%C3%A7%C3%A3o
+	Sistema de informação gerenciais	http://pt.dbpedia.org/resource/Sistema_de_informa%C3%A7%C3%A3o_de_gest%C3%A3o
+	Sistema de apoio à decisão	http://pt.dbpedia.org/resource/Sistema_de_suporte_%C3%A0_decis%C3%A3o
+		
+Video_866		
+	Motivação	http://pt.dbpedia.org/resource/Motiva%C3%A7%C3%A3o
+	Psicologia	http://pt.dbpedia.org/resource/Psicologia
+	Trabalhador	http://pt.dbpedia.org/resource/Trabalhador
+	Líder	http://pt.dbpedia.org/resource/Lideran%C3%A7a
+		
+Video_868		
+	Ácido	http://pt.dbpedia.org/resource/%C3%81cido
+	Base	http://pt.dbpedia.org/resource/Base_(qu%C3%ADmica)
+	Química analítica	http://pt.dbpedia.org/resource/Qu%C3%ADmica_anal%C3%ADtica
+	Concentração	http://pt.dbpedia.org/resource/Concentra%C3%A7%C3%A3o
+	Íons	http://pt.dbpedia.org/resource/%C3%8Don
+	PH	http://pt.dbpedia.org/resource/PH
+	Constante de dissociação	http://pt.dbpedia.org/resource/Constante_de_dissocia%C3%A7%C3%A3o
+		
+Video_872		
+	Química Analítica	http://pt.dbpedia.org/resource/Qu%C3%ADmica_anal%C3%ADtica
+	Solução	http://pt.dbpedia.org/resource/Solu%C3%A7%C3%A3o
+	Água	http://pt.dbpedia.org/resource/%C3%81gua
+	Solvente	http://pt.dbpedia.org/resource/Solvente
+	Eletrólitos	http://pt.dbpedia.org/resource/Eletr%C3%B3lito
+	Química	http://pt.dbpedia.org/resource/Química
+		
+Video_874		
+	Química Orgânica	http://pt.dbpedia.org/resource/Qu%C3%ADmica_org%C3%A2nica
+	Álcoois	http://pt.dbpedia.org/resource/%C3%81lcool
+	Compostos aromáticos	http://pt.dbpedia.org/resource/Aromaticidade
+	Aldeídos	http://pt.dbpedia.org/resource/Alde%C3%ADdo
+	Cetonas	http://pt.dbpedia.org/resource/Cetona
+		
+Video_876		
+	Iluminação	http://pt.dbpedia.org/resource/Ilumina%C3%A7%C3%A3o_c%C3%A9nica
+	Ruídos	http://pt.dbpedia.org/resource/Ru%C3%ADdo
+	Áudio	http://pt.dbpedia.org/resource/Som
+	Videoaula	http://pt.dbpedia.org/resource/Videoaula
+	Microfone	http://pt.dbpedia.org/resource/Microfone
+	Resolução	http://pt.dbpedia.org/resource/Resolu%C3%A7%C3%A3o_de_imagem
+		
+Video_886		
+	Disco rígido	http://pt.dbpedia.org/resource/Disco_r%C3%ADgido
+	SATA	http://pt.dbpedia.org/resource/Serial_ATA
+	Memória Flash	http://pt.dbpedia.org/resource/Mem%C3%B3ria_flash
+		
+Video_890		
+	Avaliação	http://pt.dbpedia.org/resource/Prova_(educa%C3%A7%C3%A3o)
+	Educação a distância	http://pt.dbpedia.org/resource/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia
+	Professor	http://pt.dbpedia.org/resource/Professor
+	Tutor	http://pt.dbpedia.org/resource/Tutoria
+	Aluno	http://pt.dbpedia.org/resource/Aluno
+		
+Video_896		
+	Mídia	http://pt.dbpedia.org/resource/M%C3%ADdia
+	Educação a distância 	http://pt.dbpedia.org/resource/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia
+	Aluno	http://pt.dbpedia.org/resource/Aluno
+	Áudio	http://pt.dbpedia.org/resource/%C3%81udio
+	Vídeoaula	http://pt.dbpedia.org/resource/Videoaula
+		
+Video_898		
+	Público	http://pt.dbpedia.org/resource/Setor_p%C3%BAblico
+	Privado	http://pt.dbpedia.org/resource/Setor_privado
+	Servidor público	http://pt.dbpedia.org/resource/Servidor_p%C3%BAblico
+	Estado	http://pt.dbpedia.org/resource/Estado
+		
+Video_900		
+	Memória	http://pt.dbpedia.org/resource/Mem%C3%B3ria
+	Disco Rígido	http://pt.dbpedia.org/resource/Disco_r%C3%ADgido
+	Computador	http://pt.dbpedia.org/resource/Computador
+	Memória flash	http://pt.dbpedia.org/resource/Mem%C3%B3ria_flash
+	Internet	http://pt.dbpedia.org/resource/Internet
+	Google	http://pt.dbpedia.org/resource/Google
+	SSD	http://pt.dbpedia.org/resource/SSD
+	Memória de longa duraçaÞo	http://pt.dbpedia.org/resource/Memória_de_longa_duraçaÞo
+	CartaÞo de memória	http://pt.dbpedia.org/resource/Cart%C3%A3o_de_mem%C3%B3ria
+		
+Video_956		
+	Processos gerenciais	http://pt.dbpedia.org/resource/Processos_gerenciais
+	Planejamento estratégico	http://pt.dbpedia.org/resource/Planejamento_estrat%C3%A9gico
+	Reunião	http://pt.dbpedia.org/resource/Reuni%C3%A3o
+	Autogestão	http://pt.dbpedia.org/resource/Autogest%C3%A3o
+		
+Video_968		
+	Engenharia de software	http://pt.dbpedia.org/resource/Engenharia_de_software
+	Software	http://pt.dbpedia.org/resource/Software
+	Processos de software	http://pt.dbpedia.org/resource/Processo_de_desenvolvimento_de_software
+	Teste de software	http://pt.dbpedia.org/resource/Teste_de_software
+	Gerência de projetos	http://pt.dbpedia.org/resource/Ger%C3%AAncia_de_projetos
+		
+Video_980		
+	Redes de computadores	http://pt.dbpedia.org/resource/Rede_de_computadores
+	Internet	http://pt.dbpedia.org/resource/Internet
+	Protocolo de comunicação	http://pt.dbpedia.org/resource/Protocolo_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+	TCP/IP	http://pt.dbpedia.org/resource/TCP/IP
+	HTTP	http://pt.dbpedia.org/resource/Hypertext_Transfer_Protocol
+	Computador	http://pt.dbpedia.org/resource/Computador
+	Servidor	http://pt.dbpedia.org/resource/Servidor
+	Multimídia	http://pt.dbpedia.org/resource/Multim%C3%A9dia
+		
+Video_992		
+	Força peso	http://pt.dbpedia.org/resource/Peso
+	Massa	http://pt.dbpedia.org/resource/Massa
+	Gravitação	http://pt.dbpedia.org/resource/Gravidade
+		
+Video_994		
+	Gravitação	http://pt.dbpedia.org/resource/Gravidade
+	Planetas	http://pt.dbpedia.org/resource/Planeta
+	Lei de Kepler	http://pt.dbpedia.org/resource/Leis_de_Kepler
+	Corpos celestes	http://pt.dbpedia.org/resource/Corpo_celeste
+	Astrônomo	http://pt.dbpedia.org/resource/Astronomia
+		
+Video_995		
+	Compostagem	http://pt.dbpedia.org/resource/Compostagem 
+	Lixo	http://pt.dbpedia.org/resource/Res%C3%ADduo_s%C3%B3lido 
+	Orgânico	http://pt.dbpedia.org/resource/Org%C3%A2nico 
+	Composto Orgânico	http://pt.dbpedia.org/resource/Composto_org%C3%A2nico 
+	Fertilizante	http://pt.dbpedia.org/resource/Fertilizante 
+	Solo	http://pt.dbpedia.org/resource/Solo 
+	AdubaçaÞo	http://pt.dbpedia.org/resource/Aduba%C3%A7%C3%A3o 
+		
+Video_996		
+	Banco de dados	http://pt.dbpedia.org/resource/Banco_de_dados
+	SGBD	http://pt.dbpedia.org/resource/Sistema_de_gerenciamento_de_banco_de_dados
+	e-Sience	http://pt.dbpedia.org/resource/E-Science
+	Malária	http://pt.dbpedia.org/resource/Mal%C3%A1ria
+	Doença	http://pt.dbpedia.org/resource/Doen%C3%A7a
+	Drogas	http://pt.dbpedia.org/resource/Droga
+	Fármacos	http://pt.dbpedia.org/resource/F%C3%A1rmaco
+	Dado	http://pt.dbpedia.org/resource/Dados
+	Workflow	http://pt.dbpedia.org/resource/Fluxo_de_trabalho
+	Cientista	http://pt.dbpedia.org/resource/Cientista
+	Pipeline	http://pt.dbpedia.org/resource/Pipeline_(hardware)
+	Nuvem	http://pt.dbpedia.org/resource/Computa%C3%A7%C3%A3o_em_nuvem
+	Biologia	http://pt.dbpedia.org/resource/Biologia
+	Máquina virtual	http://pt.dbpedia.org/resource/M%C3%A1quina_virtual
+	SQL	http://pt.dbpedia.org/resource/SQL
+		
+Video_998		
+	Redes	http://pt.dbpedia.org/resource/Rede_de_computadores
+	Laboratório	http://pt.dbpedia.org/resource/Laborat%C3%B3rio
+	Rede Mesh	http://pt.dbpedia.org/resource/Redes_Mesh
+	Gateway	http://pt.dbpedia.org/resource/Gateway
+	Internet	http://pt.dbpedia.org/resource/Internet
