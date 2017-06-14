@@ -1,0 +1,203 @@
+"Id Video
+"	"Descrição Vídeo
+"	Palavras Chaves	"Vídeo Relacionado
+"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula01/Aula01.xml	Computação gráfica e processamento de imagens	"Sintese de Imagens, Algoritimos, visao computacional, pixel, Algoritimos, Vetores, Matrizes, compressão de imagens, medicina, simulaçao de processos de produçao, jogos, Realidade aumentada, realidade virtual, álgebra Linear, Geometria analítica, Algoriitmos, linguagens de programação.
+"	Inteligencia Artificial, Informatica na educação, Algoritmos Aula 4. Algoritmos Aula 5, Algoritmos Aula 6
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula02/Aula02.xml	Bancos de Dados	Segurança de dados, SGBD, computação distribuida, multimidia, localização geografica, armazens de dados, padrões de dados, programaçao, SLQ, estruturas de dados, Sistemas operacionais, algebra, estatistica. 	Redes de Computadores, Minicurso Bigdata, Algoritmos Aula 8, Estatistica Aula 2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula03/Aula03.xml	Arquitetura e Organização de computadores	processadores, memorias, perifericos, circuitos digitais, Linguagem de baixo nivel, Assenbly, compilação, compilador, caminho de dados e controle multiprocessadores, multicomputadores	Redes de computadores
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula04/Aula04.xml	Redes de Computadores	Protocolos de comunicaçao, Distribuiçao de serviços, Clusters, computaçao em Nuvem, servidores, Segurança, Sistemas operacionais	Arquiteura e organização de computadores
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula05/Aula05.xml	Métodos Númericos	"Equaçoes Diferencias Parciais, problemas de otimizaçao, aproximaçao  minimos quadrados, Algebra linear, equaçoes lineares, Algoritmos, computação parelala
+"	Inteligencia Artificial, Cálculo Numerico aula 1, Cálculo Numerico Aula 2, Calculo Numerico Aula 3, Cálculo Numerico Aula 4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula06/Aula06.xml	Inteligencia Artificial	"Aprendizagem de máquina, visão computacional,  problemas de decisão, Sistemas inteligentes, GPS, Jogos, teste de 
+turing, procesasmento de linguagem natural, Agentes geneticos, Problemas
+ de otimizaçao, robótica, visão computacional, logica, Grafos, estruturas de dados, estatistica, probabilidade, recuperação de de informação "	"Computação gráfica, 
+Métodos Númericos,
+Bancos de Dados,
+Otimização combinatoria"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula08/Aula08.xml	Otimização combinatória	"Problemas de otimizaçao, (Minimizaçao e Maximizaçao), caixeiro viajante, complexidade de algoritimos, teoria de grafos, inteligência computacional, Grafos, GRASP, busca Tabu, busca heuristica, meta euristica, AG, colonia de formigas, colonia de abelhas, Logica, programaçao com restriçoes, 
+"	"Metodos Númericos,
+Inteligencia Artificial"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula09/Aula09.xml	Informática na educação	Educaçao, informaçoes, comunicação, tecnologia, processo de aprendizagem, ambientes virtuais na educação, realidade aumentada	Bancos de Dados, Computação Grafica
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencia_da_computacao/DCC116/Aula10/Aula10.xml	Bio-Informatica	Biologia, Gene, DNA, RNA, Proteina, Molécula, aminoácido, Códon, Ensima, Ribossomo, Redes Neurais, Modelos de marcov, computação gráfica	Inteligencia Artificial, Computaçao Grafica, Minucurso Big Data, Estatistica aula 2
+http://gia.inf.ufrgs.br/ontologies/videoaula/documentacao	Minicurso Big data	Banco de dados Redes sociais, Recuperaçao de informaçao, Mineraçõa de Dados, SQL, XML, NoSQL, Banco de Dados de Grafos, RDF, Grafos, Modelos relacionais, DBPEDIA, SPARQL, estatistica, matematica	"Banco de dados, 
+Estatistica Aula 2
+"
+http://gia.inf.ufrgs.br/ontologies/videoaula/documentacao	Minicurso Git	Controle de versões, Git, Implementaçao, Desenvolvimento de Software, Equipe, gerencia de configuraçao,	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/ceadteste/parte_1/parte1.xml	Gravitaçao Aula Teste	Fisica, Universo, Copermico, corpos celestes, Leis de Kepler, planetas, elipses, sol, teoria eliocentrica, circulos	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc008/aula01/video1.xml	Cálculo Numerico - Aula 1	Solições Numericas, Sistemas Lineares, Algebra linear, equação linerar, Matrizes, Posto, Determinante, Sistema Impossivel, Sistema possivel, Sistema Indeterminado, Matriz triagular superior, Metodos Diretos	Métodos Numericos, Cálculo Numerico Aula 1, Calculo Numerico Aula 2, Calculo Numerico Aula 3. Calculo Numerico Aula 4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc008/aula02/Video.xml	Calculo Numerico -Aula 2	"Eliminação de Gaus, Método diretos
+"	Métodos Numericos, Cálculo Numerico Aula 1, Calculo Numerico Aula 2, Calculo Numerico Aula 3. Calculo Numerico Aula 4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc008/aula03/aula.xml	Calculo Numerico -Aula 3	"Eliminação de Gaus, Método diretos, pivoteamento
+"	Métodos Numericos, Cálculo Numerico Aula 1, Calculo Numerico Aula 2, Calculo Numerico Aula 3. Calculo Numerico Aula 4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc008/aula04/Calc_4.xml	Cálculo Numerico - Aula 4	"Eliminação de Gaus, Método diretos, pivoteamento
+"	Métodos Numericos, Cálculo Numerico Aula 1, Calculo Numerico Aula 2, Calculo Numerico Aula 3. Calculo Numerico Aula 4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula1/dcc119_aula1.xml	Algoritmos Aula 1	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem	Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos Aula 9, Algoritmos Aula teste, Algoritmos exercicio 1, Calor e temperatura
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula2/dcc119_aula2.xml	Algoritmos Aula 2	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, estruturas de Controle, Estruturas condicionais	Algoritmos Aula 1, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula3/dcc119_aula3.xml	Algoritmos Aula 3	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, estruturas de Controle, Estruturas de Repetição	Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste, Algoritmos exercicio 3
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula4/dcc119_aula4.xml	Algoritmos Aula 4	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas	Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula5/dcc119_aula5.xml	Algoritmos Aula 5	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas, estruturas de repetição, Vetores	Computação Grafica,     Banco de dados, inteligencia Artificial, BioInformatica, Métodos Numericos, Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula6/dcc119_aula6.xml	Algoritmos Aula 6	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas, estruturas de repetição, Vetores de caracteres, char, caractere	Computação Grafica,     Banco de dados, inteligencia Artificial, BioInformatica, Métodos Numericos, Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula7/dcc119_aula7.xml	Algoritmos Aula 7	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas, estruturas de repetição, Vetores de caracteres, char, caractere	Computação Grafica,     Banco de dados, inteligencia Artificial, BioInformatica, Métodos Numericos, Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula8/dcc119_aula8.xml	Algoritimos Aula 8	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas, Structs, Registros	Computação Grafica,     Banco de dados, inteligencia Artificial, BioInformatica, Métodos Numericos, Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos aula 9, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula9/dcc119_aula9.xml	Algoritmos Aula 9	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, Subrotinas, Recursividade, Fatorial	Computação Grafica,     Banco de dados, inteligencia Artificial, BioInformatica, Métodos Numericos, Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 3, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos aula 8, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/aula_teste/dcc119_aulateste.xml	Algoritmos Aula teste	Algoritmos, tipos de dados, variaveis, linguagem de programaçao, linguagem c, pseudo linguagem, estruturas de Controle, Estruturas de Repetição	Algoritmos Aula 1, Algoritmos Aula 2, Algoritmos Aula 4, Algoritmos Aula 5, Algoritmos Aula 6, Algoritmos Aula 7, Algoritmos Aula 8, Algoritmos aula 9, Algoritmos Aula teste, Algoritmos exercicio 3
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/Exercicio_01/video.xml	"Algoritmos exercicio 1
+"	Algoritmos, tipos de dados, variaveis, linguagem c, Fisica Cinematica	Algoritmos Aula 1
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/dcc119/Exercicio_02/Ex02.xml	"Algoritmos exercicio 2
+"	Algoritmos, tipos de dados, variaveis, linguagem c, estruturas de repetição, numeros primos	Algorimos Aula 3, Algoritmos Aula teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/est029/aula1/aula1.xml	Estatistica Aula 1	Principio Fundamental da Contagem, Fatorial, Arranjo, permutação, combinação	Estatistica Aula 2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/est029/aula2/aula2.xml	Estatistica Aula 2	Probabilidade, Evento, espaço amostral, probabilidade condicional, teorema da probabilidade total, teorema de bayes, inferencia baysiana	Estatististica Aula 1, Banco de Dados, Inteligencia Artificial, Otimização combinatoria, Bioinformatica
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap12parte1/grav1.xml	Gravitaçao Aula 1	Fisica, Universo, Copermico, corpos celestes, Leis de Kepler, planetas, elipses, sol, teoria eliocentrica, circulos	Gravitação Aula Teste
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap12parte2/grav2.xml	Gravitação Aula 2	Gravitação Universal, newton, massa terra, Newton, cavendish, Universo	Gravitação Aula Teste, Gravitação Aula 1
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap14/fluidos.xml	Fisica 2 - Mecânica dos Fuidos	Fuidos, Densidade, massa, Pressao, Pressao Atmosferica, Trabalho, Força, Peso, Volume	"
+"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap15parte1/ondassergio.xml	Fisica2 - Ondas Mecanicas	Ondas, Interferencias, onda estacionaria, derivada, derivadas parciais, derivada de segunda ordem	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap17/temperaturaecalor.xml	Fisica2 - Calor e temperatura	Calor, Temperatura, Pressão, termometro, Grau Celsius, Grau Farenheit, Kelvin, Dilataçao termica, Calor Especifico, ebuliçao, caloria, Transferência de Calor, Conduçao, Convecção, Radiação	Fisica2 - Calor Especifico
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/fisica/fisica2/cap18parte2/Gil.xml	Fisica2 - Calor Especifico	Calor, Temperatura, Calor Específicico, molécula, átomo, pressão, Diagrama de fase,	Fisica2 - Calor e temperatura
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula1/qui125_aula1.xml	Quimica125 - Aula1	"Materia, Atomos, universo, carga eletrica, 
+"	Quimica 125 Aula2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula2/qui125_aula2.xml	Quimica125 - Aula2	Atomos. Protons, Neutons, eletrons, rutherford, Energia, radiação	Quimica 125 Aula1
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula3/qui125_aula3.xml	Quimica125 - Aula3	Átomo, Bohr, Protons, Neutrons, Eletrons, Energia	Quimica 124 Aula1, Quimica 125 Aula2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula4/qui125_aula4.xml	"Quimica125 - Aula4
+"	Atomo, Bohr, Protos, Neutrons, Eletrons	Quimica 124 Aula1, Quimica 125 Aula2, Quimica 125 Aula 3
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula5/qui125_aula5.xml	Quimica125 - Aula5	Atomo, Orbital, Elentrons, Mecanica Quantica, Mecanica classica, Equação da Onda, Função da Onda	Quimica 124 Aula1, Quimica 125 Aula2, Quimica 125 Aula3, Quimica 125 Aula4
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula6/qui125_aula6.xml	Quimica125 - Aula6	Tabela periodica, Historia da tabela periodica	Quimica 124 Aula1, Quimica 125 Aula2, Quimica 125 Aula3, Quimica 125 Aula4, Quimica 125 Aula 5
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula7/qui125_aula7.xml	Quimica125 - Aula7	Tabela periodica, familias, grupos da tabela periodica, carga eletrica, nucleo, raio atomico	"Quimica 125 Aula6
+"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula8/qui125_aula8.xml	Quimica125 - Aula8	Tabela periodica Afinidade Eletronica	Quimica 125 Aula5, Quimica 125 Aula7
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula9/qui125_aula9.xml	Quimica125 - Aula9	Ligação Quimica, Ligação Covalente, Ligação ionica, Ligação Metálica, ligação de hidrogenio, Energia, Energia Potencial	Quimica 124 Aula1, Quimica 125 Aula2, Quimica 125 Aula3, Quimica 125 Aula4, Quimica 125 Aula 5, Quimica 125 Aula 7, Quimica 125 Aula8
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula10/qui125_aula10.xml	Quimica125 - Aula10	Ligação Iônica	Quimica 125 Aula9
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui125/aula16/qui125_aula16.xml	Quimica125 - Aula16	Reações Quimicas Acidos, Bases, Oxidos, Reagentes	Quimica 125 Aula9
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui131/aula1/quim131_aula1.xml	Quimica131 - Aula 1	Estrutura Atomica	Quimica 131 Aula 2, Quimica 131 Aula 3
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui131/aula2/quim131_aula2.xml	Quimica131 - Aula 2	Estrutura Atomica, radiaçao, energia, luz, espectro, foton	Quimica 131 Aula 1, Quimica 131 Aula 3
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/qui131/aula3/quim131_aula3.xml	Quimica131 - Aula 3	Estrutura Atômica, Valencia, particulas subatômicas	Quimica 131 Aula 1, Quimica 131 Aula 2, Quimica 124 Aula 6, Quimica 125 Aula 7, Quimica 125 Aula 8
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/quimica/orbitais_moleculares/emanoel.xml	"Orbitais Moleculares
+"	Orbital molecular, Camada de Valencia, eletron, Potencial eletrico, Estrutura Atômica, Energia, Principio de Exclusão de Pauli, Orbital Atômico, Ordem de Ligação, Teoria do Orbital Molecular, Regra de Hund	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula00/Aula_00.xml	Circuitos Digitais -Aula 00	Circuitos Digitais,	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula1/Video1.xml	Circuitos Digitais -Aula  1	Circuitos Digitais, Sistemas Digitais , Representação Númericas, Estrutura de Dados, Calculo  	Circuitos Digitais- Aula 2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula2/video2.xml	Circuitos Digitais -Aula 2	Sistemas de Numeração Digitais, Circuitos Lógicos, Circuitos Integrados, Circuitos Combinacionais, Circuito Sequenciais, Computadores Digitais,	Circuitos Digitais- Aula 1
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula3/video3.xml	Circuitos Digitais- Aula 3	Circuitos Digitais,Sistemas de Numeração, Conversão Binária, MSB, Algoritmos	"Circuitos Digitais- Aula 4
+Circuitos Digitais- Aula 5"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula4/video4.xml	Circuitos Digitais- Aula 4	Sistemas de Numeração, Conversão Binária, Conversão Hexadecimal,  Código de Gray, 	"Circuitos Digitais- Aula 3
+Circuitos Digitais- Aula 5"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula5/video5.xml	Circuitos Digitais- Aula 5	Circuitos Digitais, ASCII, Conversão Hexadecimal, Bit de paridade	"Circuitos Digitais- Aula 3
+Circuitos Digitais- Aula 4"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula6/dcc122_aula6.xml	Circuitos Digitais- Aula 6	 Circuitos Lógicos, Constantes e variáveis booleanas, Tabela verdade, Operações Lógicas, 	"Circuitos Digitais- Aula 5
+Circuitos Digitais- Aula 7
+Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula7/video7.xml	Circuitos Digitais- Aula 7	Circuitos Lógicos, Operações Lógicas, Tabela Verdade, Constantes e variáveis booleanas, 	"Circuitos Digitais- Aula 5
+Circuitos Digitais- Aula 6
+Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula8/dcc122_aula8.xml	CIrcuitos Digitais- Aula 8	Simplificação de Sistemas, Variáveis Lógicas, Regra da Absorção, 	"Circuitos Digitais- Aula 5
+Circuitos Digitais- Aula 6
+Circuitos Digitais- Aula 7
+Circutios Digitais- Aula 9"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula9/Aula9.xml	Circuitos Digitais- Aula 9	Teoremas de DeMorgan, Simplificação de Sistemas, Universalidade das portas NAND, Conceito de estado lógico ativo, 	"Circuitos Digitais- Aula 5
+Circuitos Digitais- Aula 6
+Circuitos Digitais- Aula 7 
+Circuitos Digitais- Aula 8"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula10/aula_10.xml	Circuitos Digitais- Aula 10	Familias Lógicas, Circuios Integrados, Transistores, Circuitos Lógicos,	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula11/video11.xml	Circuitos Digitais- Aula 11	Maxterms e Minterms, Teoremas da Absorção, Operações Lógicas, Simplificação de Circuitos Lógicos, Teoremas de DeMorgan, 	"Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9
+Circuitos Digitais- Aula 12
+Circuitos Digitais- Aula 13
+Circuitos Digitais- Aulta 14"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula12/video12.xml	Circuitos Digitais- Aula 12	Simplificação Algébrica de Circuitos, Maxterms e Minterms, 	"Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9
+Circuitos Digitais- Aula 11
+Circuitos Digitais- Aula 13
+Circuitos Digitais- Aula 14"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula13/Aula13.xml	Circuitos Digitais- Aula 13	Simplificação de Circuitos Lógicos, Mapa de Karnaugh, Lógicas de Relevância, 	"Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9
+Circuitos Digitais- Aula 11
+Circuitos Digitais- Aula 12
+Circuitos Digitais- Aula 14"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula14.1/Aula14.xml	Circuitos Digitais- Aula 14.1	Operações Lógicas, Comparador de Igualdade e Desigualdade, Bit de paridade, Dispositivos Lógicos Programavél, 	"Circuitos Digitais- Aula 8
+Circuitos Digitais- Aula 9
+Circuitos Digitais- Aula 11
+Circuitos Digitais- Aula 12
+Circuitos Digitais- Aula 13"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula15/video15.xml	Circuitos Digitais- Aula 15	Flip-Flop , Dispositivos correlatos,  Circuitos Sequênciais, Set-reset, 	"Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 17
+Citcuitos Digitais- Aula 18"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula16/video16.xml	Circuitos Digitais- Aula 16	Filp-Flop , Dispositivos Correlatos, Cursos Digitais, Sinais de Clocks, Flip-Flop SR	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 17
+Circuitos Digitais- Aula 18*"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula17/Aula17.xml	Circuitos Digitais- Aula 17	Flip-Flop , Dispositivos Correlatos, Flip-Flop JK, Entradas Assincronas, 	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 18*"
+(não encontrado e não inserido no <qodra:benchmarcks>	Circuitos Digitais- Aula 18*	Flip-Flop , Dispositivos Correlatos, Temporizações em Flip-Flop, Frequência de Clock, Circuitos Geradores , Multivibrator Monostable,	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 17"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula19/video19.xml	Circuitos Digitais- Aula 19	Contadores, Registradores, Contadores Assincronos,Contadores Sincronos, Construção de Contatores,	"
+Circuitos Digitais- Aula 20
+CIrcuitos Digitais- Aula 21*
+Circuitos Digitais- Aula 22"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula20/video20.xml>	Circuitos Digitais- Aula 20	Contadores , Registradores, Contadores Crescentes e Decrescente,CI de Contadores, Contadores Sincronos,Flip-Flop,	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 17
+Circuitos Digitais- Aula 18*
+Circuitos Digitias- Aula 19
+Circuitos Digitais- Aula 21*
+Circuitos Digitais- Aula 22"
+(não encontrado e não inserido no <qodra:benchmarcks>)	Circuitos Digitais- Aula 21*	Contadores , Registradores, Contadores Sincronos, Maquinas de Estado, Flip-Flop, Contador Autocorretor, Tabela de Transcrição de Estados, 	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 17
+Circuitos Digitais- Aula 18*
+Circuitos Digitias- Aula 19
+Circuitos Digitais- Aula 20
+Circuitos Digitais- Aula 22"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula22_1/Aula_22.xml	Circuitos Digitais- Aula 22	Contadores, Registradores, Transferências de dados, Construção de Registradores, Sinal de Clock, Registradores de Deslocamento, Flip-Flop, 	"Circuitos Digitais- Aula 15
+Circuitos Digitais- Aula 16
+Circuitos Digitais- Aula 17
+Circuitos Digitais- Aula 18*
+Circuitos Digitais- Aula 19
+Circuitos Digitais- Aula 20
+Circuitos Digitais- Aula 21*"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula23/Aula_23.xml	Circuitos Digitais- Aula 23	Circuitos Lógicos MSI, Circuito Somador Completo, Codificadores, Decodificadores,  	"Circuitos Digitais- Aula 24
+Circuitos Digitais- Aula 25"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula24/Aula_24.xml	Circuitos Digitais- Aula 24	Circuitos Lógicos MSI, Multiplexadores, Drive BCD para 7 seguimentos, Decodificadores, Codidicadores, 	"Circuitos Digitais- Aula 23
+Circuitos Digitais- Aula 25"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula25/Aula_25.xml	Circuitos Digitais- Aula 25	"Circuitos Lógicos MSI, Demultiplexadores, Comparadores de Magnitudes, Conversores de Códigos, Barramento 
+de Dados, Codificadores, Decodificadores,Sinal de Clock"	"Circuitos Digitais- Aula 23
+CIrcuitos Digitais- Aula 24"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula26/video26.xml	Circuitos Digitais- Aula 26	Dispositivos de Memória, Conceitos de Memória, Terminologias de Memória, Memória Auxiliar ,Memória Principal, Célula de energia, Memória RAM, Memória Estática, Memória Dinâmica, 	"Circuitos Digitais- Aula 27
+Circuitos Digitais- Aula 28"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula27/video27.xml	Circuitos Digitais- Aula 27	Dispositvos de Memória, Operação de Memória, CPU e Memória, Barramento de Endereço. Barramento de Dados, Barramento de Controle, Memória ROM, MROM , PROM,  EPROM, 	"Circuitos Digitais- Aula 26
+Circuitos Digitais- Aula 28"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula28/video28.xml	Circuitos Digitais- Aula 28	Dispositvos de Memória, Memórias Flash,  Memória Estática, Memória Dinâmica , Memória ROM, Funcionamento da Memória, 	"Circuitos Digitais- Aula 26
+Circuitos Digitais- Aula 27"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/ciencias_exatas/DCC122/Aula29/Aula_29.xml	Circuitos Digitais- Aula 29	Dispositvos Lógicos Programavéis, Linguagem de Descrição de Hardware, HDL, 	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/treinamento/matadm2.xml	Construção da Ideia de Função	Função, Diagrama, Gráfico, Análise de gráficos, Análise de funções, Criação de funções, Idéia de Função, 	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui025/aula0/eadqui025_aula0.xml	EADQUI025-Química Orgânica 2- Aula 0		
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui025/aula1/eadqui025_aula1.xml	EADQUI025-Química Orgânica 2- Aula 1	Compostos Insaturados Conjugados, Ligação Simples, Ligações Duplas, Ligações Químicas, Nomenclatura de Compostos,IUPAC,  Catalisador, Lei de Hess, Orbitais, Hibridização, Geometria Molecular, Comprimento de Ligação, Conjugação de Elétrons, 	"EADQUI025-Química Orgânica 2- Aula 1 part3
+EADQUI025-Química Orgânica 2- Aula 2"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui025/aula1-parte3/eadqui025-aula1-parte3.xml	EADQUI025-Química Orgânica 2- Aula 1 part3	Compostos Insaturados Conjugados, Ligações Duplas, Átomos, Elétrons, Markovnikov, Carbocátion,  Formação de Produto, Produto de Adição, Produto Majoritário, Temperatura, Energia, Barreira de Energia, 	"EADQUI025-Química Orgânica 2- Aula 1
+EADQUI025-Química Orgânica 2- Aula 2"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui025/aula2/eadqui025_aula2.xml	EADQUI025-Química Orgânica 2- Aula 2	Compostos Insaturados Conjugados, Carbono Alílicos, Ligações Duplas, Nucleófilo, Carbono Vilílico, Ligação Covalente, Orbitais Moleculáres, Ligação PI, Radical, Ressonância, Flechas de Química, Átomo, 	"EADQUI025-Química Orgânica 2- Aula 1
+EADQUI025-Química Orgânica 2- Aula 1 part3"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui030/aula1/eadqui030_aula1.xml	EADQUI030- Fundamentos de Química Analítica- Aula 1	Propriedades de Soluções, Solução, Solvente, Substâncias Químicas, Solvente Universal, Condutividade Elétrica, Eletŕolitos, Não-Eletrólitos, 	
+(não encontrado e não inserido no <qodra:benchmarcks>	EADQUI030- Fundamentos de Química Analítica- Aula 2	Equilibrio Ácido-Base, Força Iônica, Coeficiente de Atividade , Principio de Le Chatelier, Constante de Equilíbrio, Solvente, Catalisadores, Produto Iônico, Solução Ácida, Solução Básica, Ácido Fraco, Ácido Forte, Base Forte, Base Fraca,	"EADQUI030- Fundamentos de Química Analítica- Aula 4e5
+EADQUI030- Fundamentos de Química Analítica- Aula 6,7 e 8"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui030/aula4e5/eadqui030_aula4e5.xml	EADQUI030- Fundamentos de Química Analítica- Aula 4e5	Ânion, Ácido, Mol, Constante Ácida, Constante Básica, Grau de Ionização, Constante de Dissocação, 	"EADQUI030- Fundamentos de Química Analítica- Aula 2*
+EADQUI030- Fundamentos de Química Analítica- Aula 6,7 e 8"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui030/aula67e8/eadqui030-aula67e8.xml	EADQUI030- Fundamentos de Química Analítica- Aula 6,7 e 8	Equilibrio Ácido-Base, PH, Hidŕolise, Mol, Sais, Bases, Ácidos, Constante de dissociação, Costante Ácida, Solução Tampão, 	"EADQUI030- Fundamentos de Química Analítica- Aula 2*
+EADQUI030- Fundamentos de Química Analítica- Aula 4e5"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui030/aula9/eadqui030_aula9.xml	EADQUI030- Fundamentos de Química Analítica- Aula 9	Preciptiado , Solubilidade, Lei da ação das massas, Concentração, Produto de Solubilidade, Produto Iônico, PH, 	
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui056/Aula1/video_barbara.xml	EADQUI056- Química Inorgânica- Aula 1	Nomenclatura dos Orgânometálico, Nomenclatura, Compostos de coordenação, 	"EADQUI025-Química Orgânica 2- Aula 1
+EADQUI056- Química Inorgânica- Aula 2
+EADQUI056- Química Inorgânica- Aula 3"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui056/Aula2/aula2.xml	EADQUI056- Química Inorgânica- Aula 2	Ligação Iônica, Ligação Covalante, Moleculáres, Regra do Octeto, Eletronegatividade, 	"EADQUI025-Química Orgânica 2- Aula 2
+EADQUI056- Química Inorgânica- Aula 1
+"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_quimica/eadqui056/Aula3/aula2.xml	EADQUI056- Química Inorgânica- Aula 3	Compostos Orgânometálicos, Contagem de elétrons ,Doação de elétrons , Camada de Valência, Regra dos 18 elétrons, 	"EADQUI056- Química Inorgânica- Aula 1
+EADQUI056- Química Inorgânica- Aula 2"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_computacao/eaddcc009/aula1/aula1.xml	EADDCC009- Introdução a Rede de Computadores- Aula 1	Rede , Rede de computadores, Protocolos , Nó de rede, Frame,Pacote de dados, LAN, MAN, WAN, PAN, interconectividade, internet, IP, TCP, 	EADDCC009- Modelos OSI- Aula 2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_computacao/eaddcc009/aula2/eaddcc009_aula2.xml	EADDCC009- Modelos OSI- Aula 2	Modelo OSI, Redes, Rede de computadores, Pacote de Dados, Camada de Rede , Tranferência de Dados, PIlha de Protocolos, 	"EADDCC009- Introdução a Rede de Computadores- Aula 1
+EADDCC009- Infraestrura de Funcionamento de Rede- Aula 3"
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_computacao/eaddcc009/aula3/eaddcc009_aula3.xml	EADDCC009- Infraestrura de Funcionamento de Rede- Aula 3	Infraestrutura, Redes, Transmissão de Informação ,Processamento de Informação, Banda, Perda de Energia, Comutação de Menssagens, Pacotes de Dados, Frame, UTP, Repetidor,HUB, SWITCH, Conversores, Roteadores, 	EADDCC009- Modelos OSI- Aula 2
+http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/licenciatura_computacao/eaddcc009/aula5/eaddcc009_aula5.xml	EADDCC009-   Aula 5	Sinal digital, HUB, SWITCH, Ruido ,Interferência, Protocolo de Acesso, Enlace, Protocolo MAC, Overhead, Datagrama, Broadcast, Multicast, Ethernet, Roteadores, 	EADDCC009- Infraestrura de Funcionamento de Rede- Aula 3
+
