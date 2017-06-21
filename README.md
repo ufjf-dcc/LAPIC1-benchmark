@@ -14,7 +14,7 @@ The base has free license for academic use. However, if you use this benchmark i
 
 ```latex
 @inproceedings{dias_lapic1_20017,
-    author = {Dias, Laura Lima and Barrere, Eduardo and Barbosa, Jayme Siqueira and Souza, Jairo Francisco de},
+    author = {Dias, Laura Lima and Barbosa, Jayme Siqueira and Barrere, Eduardo and Souza, Jairo Francisco de},
     title = {An Approach to Identify Similarity Among Educational Resources Using External Knowledge Bases},
     booktitle = {Brazilian Journal of Computers in Education},
     year = {2017},
