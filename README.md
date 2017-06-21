@@ -7,8 +7,11 @@ Utilization
 The base are composed by 4 files: "Annotation" , "Xml", "Description" and "Related".
 
 On "Xml" file are the ID and the XML file link with information of each video.
+
 The "Annotation" file is the result of the manual annotation process. In it, there are the tuples (token, resource) used to evaluate the base.
+
 The "Description" file are the description and keywords of each video used on "Related" file.
+
 Lastly, on "Related" file are the related videos.
 
 License
