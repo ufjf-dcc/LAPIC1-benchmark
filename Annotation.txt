@@ -1,4 +1,4 @@
-Vídeo	Palavras-Chave	Resource
+Video	Keyword	Resource
 		
 Video_96		
 	Modelo matemático	http://pt.dbpedia.org/resource/Modelo_(matem%C3%A1tica)
