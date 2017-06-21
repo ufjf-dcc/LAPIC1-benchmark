@@ -1,10 +1,22 @@
 # LAPIC1-benchmark
 
-A base de avaliação LAPIC1 está disponível para que pesquisas em anotação semântica de vídeos e sistemas de recomendação. A base foi criadas com vídeo-aulas do serviço VideoAula@RNP e Coursera anotadas manualmente por especialistas, totalizando 69 vídeos em língua portuguesa totalizando aproximadamente 11 horas de vídeo. O processo de anotação manual levou aproximadamente 44 horas de trabalho.
+The LAPIC1 evaluation base is available to researches on semantic video annotation and recommendadtion systems. The base was created with video lessons from the Videoaula@RNP service, manually annotated by experts, totaling 39 videos in Portuguese with approximately 6 hours of video. The manual annotation process took approximately 24 hours of work.
 
-Utilização
+Utilization
 --------
-A base possui licença gratuita para uso acadêmico. Contudo, pede-se que os artigos que venham a utilizar a base referenciem o seguinte trabalho:
+The base are composed by 4 files: "Annotation" , "Xml", "Description" and "Related".
+
+On "Xml" file are the ID and the XML file link with information of each video.
+
+The "Annotation" file is the result of the manual annotation process. In it, there are the tuples (token, resource) used to evaluate the base.
+
+The "Description" file are the description and keywords of each video used on "Related" file.
+
+Lastly, on "Related" file are the related videos.
+
+License
+-------
+The base has free license to academic use. However, is required that articles that come to use this base make reference to the following works:
 
 ```latex
 @inproceedings{dias_lapic1_20017,
@@ -16,3 +28,4 @@ A base possui licença gratuita para uso acadêmico. Contudo, pede-se que os art
     issue = {1}
 }
 ```
+
