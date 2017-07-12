@@ -285,3 +285,200 @@ Video_998
 	Rede Mesh	http://pt.dbpedia.org/resource/Redes_Mesh
 	Gateway	http://pt.dbpedia.org/resource/Gateway
 	Internet	http://pt.dbpedia.org/resource/Internet
+		
+IF_01		
+	Benchmarking 	http://pt.dbpedia.org/resource/Benchmarking
+	AdministraçaÞo 	http://pt.dbpedia.org/resource/AdministraçaÞo
+	RevoluçaÞo Industrial 	http://pt.dbpedia.org/resource/Revolu%C3%A7%C3%A3o_Industrial
+	GestaÞo 	http://pt.dbpedia.org/resource/AdministraçaÞo
+	Sociedade Anonima 	http://pt.dbpedia.org/resource/S.A._%28corporation%29
+	Sociedade Limitada 	http://pt.dbpedia.org/resource/Sociedade_de_responsabilidade_limitada
+		
+IF_02		
+	AdministraçaÞo cientifica 	http://pt.dbpedia.org/resource/Taylorismo
+	RevoluçaÞo Industrial 	http://pt.dbpedia.org/resource/Revolu%C3%A7%C3%A3o_Industrial
+	Segunda RevoluçaÞo Industrial 	http://pt.dbpedia.org/page/Segunda_Revolu%C3%A7%C3%A3o_Industrial
+	Taylorismo	http://pt.dbpedia.org/resource/Taylorismo
+	Frederick Taylor 	http://pt.dbpedia.org/page/Frederick_Taylor
+		
+IF_03		
+	OrganizaçaÞo Racional do Trabalho	http://pt.dbpedia.org/resource/Taylorismo
+	Teoria clássica da administraçaÞo	http://pt.dbpedia.org/resource/Teoria_clássica_da_administraçaÞo
+	Henri Fayol 	http://pt.dbpedia.org/resource/Jules_Henri_Fayol
+	Teoria da Burocracia na AdminsitraçaÞo 	http://pt.dbpedia.org/resource/Teoria_da_burocracia_na_administraçaÞo
+	Escola Comportamental 	http://pt.dbpedia.org/resource/Teoria_comportamental_da_administraçaÞo
+	Peter Drucker 	http://pt.dbpedia.org/resource/Peter_Drucker
+		
+IF_04		
+	Matemática Financeira 	http://pt.dbpedia.org/resource/Matemática_financeira
+	InflaçaÞo 	http://pt.dbpedia.org/resource/InflaçaÞo
+	Dinheiro 	http://pt.dbpedia.org/resource/Dinheiro
+	Juros 	http://pt.dbpedia.org/resource/Juro
+	RazaÞo 	http://pt.dbpedia.org/resource/RazaÞo_(matemática)
+		
+IF_05		
+	PotenciaçaÞo	http://pt.dbpedia.org/resource/Exponencia%C3%A7%C3%A3o
+	Regra de Sinais	http://pt.dbpedia.org/resource/Sinal_%28matem%C3%A1tica%29
+	Número triangular 	http://pt.dbpedia.org/resource/Número_triangular
+	Porcentagem 	http://pt.dbpedia.org/resource/Porcentagem
+		
+IF_06		
+	GestaÞo 	http://pt.dbpedia.org/resource/AdministraçaÞo
+	Sinergia 	http://pt.dbpedia.org/resource/Sinergia
+	Desenvolvimento pessoal 	http://pt.dbpedia.org/resource/Desenvolvimento_pessoal
+	AutogestaÞo 	http://pt.dbpedia.org/resource/AutogestaÞo
+	Relacionamentos interpessoais 	http://pt.dbpedia.org/resource/Relacionamentos_interpessoais
+	Pirâmide de Maslow 	http://pt.dbpedia.org/resource/Hierarquia_de_necessidades_de_Maslow
+		
+IF_07		
+	NegociaçaÞo 	http://pt.dbpedia.org/resource/NegociaçaÞo
+		
+IF_08		
+	NegociaçaÞo 	http://pt.dbpedia.org/resource/NegociaçaÞo
+		
+IF_09		
+	Competitividade 	http://pt.dbpedia.org/resource/Competitividade
+	Qualidade	http://pt.dbpedia.org/resource/Qualidade
+	ISO 9000	http://pt.dbpedia.org/resource/ISO_9000
+	Controle estatístico de processos	http://pt.dbpedia.org/resource/Controle_estat%C3%ADstico_de_processos
+	GestaÞo da qualidade total	http://pt.dbpedia.org/resource/GestaÞo_da_qualidade_total
+	Sete ferramentas da qualidade	http://pt.dbpedia.org/resource/Sete_ferramentas_da_qualidade
+	Fluxograma	http://pt.dbpedia.org/resource/Fluxograma
+	Diagrama de Pareto	http://pt.dbpedia.org/resource/Diagrama_de_Pareto
+	Histograma 	http://pt.dbpedia.org/resource/Histograma
+	Diagrama de Causa e Efeito	http://pt.dbpedia.org/resource/Diagrama_de_Causa_e_Efeito
+	Gráfico de dispersaÞo 	http://pt.dbpedia.org/resource/Gráfico_de_dispersaÞo
+	Carta de controle	http://pt.dbpedia.org/resource/Carta_de_controle
+	ISO	http://pt.dbpedia.org/resource/OrganizaçaÞo_Internacional_de_NormalizaçaÞo
+		
+IF_10		
+	Ciclo PDCA	http://pt.dbpedia.org/resource/Ciclo_PDCA
+	ISO	http://pt.dbpedia.org/resource/OrganizaçaÞo_Internacional_de_NormalizaçaÞo
+	Fluxograma	http://pt.dbpedia.org/resource/Fluxograma
+		
+IF_11		
+	Empreendedorismo	http://pt.dbpedia.org/resource/Empreendedorismo
+	GlobalizaçaÞo	http://pt.dbpedia.org/resource/GlobalizaçaÞo
+	Networking	http://pt.dbpedia.org/resource/Networking
+	PrivatizaçaÞo no Brasil	http://pt.dbpedia.org/resource/PrivatizaçaÞo_no_Brasil
+	SEBRAE	http://pt.dbpedia.org/resource/Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas
+	SOFTEX	http://pt.dbpedia.org/resource/AssociaçaÞo_para_PromoçaÞo_da_Excelência_do_Software_Brasileiro
+		
+IF_12		
+	Empreendedorismo	http://pt.dbpedia.org/resource/Empreendedorismo
+	Plano Real	http://pt.dbpedia.org/resource/Plano_Real
+	InflaçaÞo	http://pt.dbpedia.org/resource/InflaçaÞo
+	InflaçaÞo inercial	http://pt.dbpedia.org/resource/InflaçaÞo_inercial
+	Economia	http://pt.dbpedia.org/resource/Economia
+	Copom	http://pt.dbpedia.org/resource/Comitê_de_Política_Monetária
+		
+IF_13		
+	Orçamento	http://pt.dbpedia.org/resource/Orçamento
+	AdministraçaÞo financeira	http://pt.dbpedia.org/resource/AdministraçaÞo_financeira
+		
+IF_14		
+	Sinergia	http://pt.dbpedia.org/resource/Sinergia
+	Relacionamentos interpessoais	http://pt.dbpedia.org/resource/Relacionamentos_interpessoais
+	ComunicaçaÞo interpessoal	http://pt.dbpedia.org/resource/ComunicaçaÞo_interpessoal
+	InteraçaÞo	http://pt.dbpedia.org/resource/InteraçaÞo_social
+	PercepçaÞo	http://pt.dbpedia.org/resource/PercepçaÞo
+	Autoconceito	http://pt.dbpedia.org/resource/Autoimagem
+		
+IF_15		
+	Orçamento	http://pt.dbpedia.org/resource/Orçamento
+	GestaÞo de Pessoas	http://pt.dbpedia.org/resource/GestaÞo_de_Recursos_Humanos
+	Tomada de decisaÞo	http://pt.dbpedia.org/resource/Tomada_de_decisaÞo
+		
+IF_16		
+	Contabilidade	http://pt.dbpedia.org/resource/Contabilidade
+	SEBRAE	http://pt.dbpedia.org/resource/Serviço_Brasileiro_de_Apoio_às_Micro_e_Pequenas_Empresas
+	Patrimônio	http://pt.dbpedia.org/resource/Patrimônio
+		
+IF_17		
+	Patrimônio	http://pt.dbpedia.org/resource/Patrimônio
+	Bens	http://pt.dbpedia.org/resource/Bem_(direito)
+	Direito	http://pt.dbpedia.org/resource/Direito
+	Ativo	http://pt.dbpedia.org/resource/Ativo
+	Patrimônio líquido	http://pt.dbpedia.org/resource/Patrimônio_líquido
+	Passivo	http://pt.dbpedia.org/resource/Passivo_(contabilidade)
+	Receita	http://pt.dbpedia.org/resource/Receita_(economia)
+	Despesa	http://pt.dbpedia.org/resource/Despesa
+	Passivo a descoberto 	http://pt.dbpedia.org/resource/Passivo_a_descoberto
+		
+IF_18		
+	Marketing	http://pt.dbpedia.org/resource/Marketing
+	Produto tangível	http://pt.dbpedia.org/resource/Produto_tangível
+	Comércio	http://pt.dbpedia.org/resource/Comércio
+	Produto	http://pt.dbpedia.org/resource/Produto_(marketing)
+		
+IF_19		
+	Marketing	http://pt.dbpedia.org/resource/Marketing
+	Produto	http://pt.dbpedia.org/resource/Produto_(marketing)
+	PromoçaÞo	http://pt.dbpedia.org/resource/PromoçaÞo
+	Merchandising	http://pt.dbpedia.org/resource/Merchandising
+	Ponto de venda	http://pt.dbpedia.org/resource/Ponto_de_venda
+	FidelizaçaÞo	http://pt.dbpedia.org/resource/FidelizaçaÞo
+		
+IF_20		
+	ProduçaÞo	http://pt.dbpedia.org/resource/ProduçaÞo
+	Processo	http://pt.dbpedia.org/resource/Processo
+	AdministraçaÞo da produçaÞo	http://pt.dbpedia.org/resource/AdministraçaÞo_da_produçaÞo
+	FunçaÞo produçaÞo	http://pt.dbpedia.org/resource/FunçaÞo_produçaÞo
+		
+IF_21		
+	ProduçaÞo	http://pt.dbpedia.org/resource/ProduçaÞo
+		
+IF_22		
+	Relatorios Contábeis	http://pt.dbpedia.org/resource/DemonstraçoÞes_contábeis
+	Balanço patrimonial	http://pt.dbpedia.org/resource/Balanço_patrimonial
+	DemonstraçaÞo do resultado do exercício	http://pt.dbpedia.org/resource/DemonstraçaÞo_do_resultado_do_exercício
+	Ativo circulante	http://pt.dbpedia.org/resource/Ativo_circulante
+	Ativo naÞo circulante	http://pt.dbpedia.org/resource/Ativo_naÞo_circulante
+	Ativo realizável a longo prazo	http://pt.dbpedia.org/resource/Ativo_realizável_a_longo_prazo
+	Passivo circulante	http://pt.dbpedia.org/resource/Passivo_circulante
+	Passivo naÞo circulante	http://pt.dbpedia.org/resource/Passivo_naÞo_circulante
+	Passivo exigível a longo prazo	http://pt.dbpedia.org/resource/Passivo_exigível_a_longo_prazo
+		
+IF_23		
+	Recrutamento	http://pt.dbpedia.org/resource/Recrutamento.
+	Mercado de trabalho	http://pt.dbpedia.org/resource/Mercado_de_trabalho
+	Recursos Humanos	http://pt.dbpedia.org/resource/Recursos_Humanos
+	Entrevista	http://pt.dbpedia.org/resource/Entrevistas_de_Emprego
+		
+IF_24		
+	Fluxo de caixa	http://pt.dbpedia.org/resource/Fluxo_de_caixa
+	DemonstraçaÞo do resultado do exercício	http://pt.dbpedia.org/resource/DemonstraçaÞo_do_resultado_do_exercício
+	Receita líquida	http://pt.dbpedia.org/resource/Receita_líquida
+	Lucro bruto	http://pt.dbpedia.org/resource/Lucro_bruto
+	Lucro Líquido	http://pt.dbpedia.org/resource/Lucro
+	DemonstraçaÞo de Lucros ou Prejuízos Acumulados	http://pt.dbpedia.org/resource/DemonstraçaÞo_de_Lucros_ou_Prejuízos_Acumulados
+		
+IF_25		
+	Estrutura organizacional	http://pt.dbpedia.org/resource/Estrutura_organizacional
+	Sistema	http://pt.dbpedia.org/resource/Sistema
+	Organograma	http://pt.dbpedia.org/resource/Organograma
+	Rádio-peaÞo	http://pt.dbpedia.org/resource/Rádio-peaÞo
+	Autoridade	http://pt.dbpedia.org/resource/Autoridade
+		
+IF_26		
+	Estrutura organizacional	http://pt.dbpedia.org/resource/Estrutura_organizacional
+		
+IF_27		
+	Estratégia	http://pt.dbpedia.org/resource/Estratégia
+	Vantagem competitiva	http://pt.dbpedia.org/resource/Vantagem_competitiva
+	Planejamento estratégico	http://pt.dbpedia.org/resource/Planejamento_estratégico
+		
+IF_28		
+	Estratégia	http://pt.dbpedia.org/resource/Estratégia
+	Planejamento estratégico	http://pt.dbpedia.org/resource/Planejamento_estratégico
+	SWOT	http://pt.dbpedia.org/resource/Análise_SWOT
+		
+IF_29		
+	AdministraçaÞo financeira	http://pt.dbpedia.org/resource/AdministraçaÞo_financeira
+	Planejamento financeiro	http://pt.dbpedia.org/resource/Planejamento_financeiro
+	VisaÞo Holística	http://pt.dbpedia.org/resource/AdministraçaÞo_holística
+		
+IF_30		
+	AdministraçaÞo financeira	http://pt.dbpedia.org/resource/AdministraçaÞo_financeira
+	Ativo	http://pt.dbpedia.org/resource/Ativo
+	Passivo	http://pt.dbpedia.org/resource/Passivo
