@@ -1,6 +1,6 @@
 Video	Xml
 	
-Video_96	http://va05-cps.rnp.br/riotransfer/ufjf/ciencia_da_computacao/DCC116/Aula07/Aula07.xml
+Video_96	http://va05-idc.rnp.br/riotransfer/cederj/sistemas_comp/ead05011/Aula_001/Aula_001.xml
 Video_146	http://va05-idc.rnp.br/riotransfer/febave-dtic/Introducaomoodle/Introducaoaomoodle.xml
 Video_178	http://va05-idc.rnp.br/riotransfer/rnp/treinamentos/videoaulas/modulo_4/modulo_4.xml
 Video_260	http://va05-rjo.rnp.br/riotransfer/cederj/sistemas_comp/ead05011/Aula_003/Aula_003.xml
@@ -10,7 +10,7 @@ Video_350	http://va05-idc.rnp.br/riotransfer/rnp/treinamentos/videoaulas/modulo_
 Video_352	http://va05-rjo.rnp.br/riotransfer/rnp/treinamentos/videoaulas/modulo_2/modulo_2.xml
 Video_354	http://va05-rjo.rnp.br/riotransfer/cederj/sistemas_comp/workshops/2014_2/Abertura/abertura.xml
 Video_364	http://va05-cps.rnp.br/riotransfer/cederj/sistemas_comp/ead05011/Aula_008/Aula_008.xml
-Video_370	http://va05-cps.rnp.br/riotransfer/cederj/sistemas_comp/ead05011/Aula_008/Aula_008.xml
+Video_370	http://va05-rjo.rnp.br/riotransfer/cederj/sistemas_comp/ead05011/Aula_006/Aula_006.mp4
 Video_396	http://va05-rjo.rnp.br/riotransfer/rnp/treinamentos/videoaulas/modulo_3/modulo_3.xml
 Video_398	http://va05-rjo.rnp.br/riotransfer/rnp/treinamentos/eduroam/modulo_2/modulo_2.xml
 Video_498	http://va05-cps.rnp.br/riotransfer/febave-dtic/Moodle/Enviodeatividades/Enviodeatividades.xml
